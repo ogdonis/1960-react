@@ -9,9 +9,7 @@ import LocalData from "data/localData";
 
 export default function Landing() {
 
-  const boardMember = (props) => {
 
-  }
   return (
     <>
       <Navbar transparent />
